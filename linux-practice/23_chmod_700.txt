@@ -1,0 +1,1 @@
+-rwx------ 1 jay jay 13 Sep  6 10:21 test.txt

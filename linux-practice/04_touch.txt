@@ -1,0 +1,6 @@
+total 12
+-rw-r--r-- 1 jay jay  40 Sep  6 10:13 01_pwd.txt
+-rw-r--r-- 1 jay jay 103 Sep  6 10:14 02_ls.txt
+-rw-r--r-- 1 jay jay   5 Sep  6 10:15 03_cd.txt
+-rw-r--r-- 1 jay jay   0 Sep  6 10:17 04_touch.txt
+-rw-r--r-- 1 jay jay   0 Sep  6 10:17 test.txt

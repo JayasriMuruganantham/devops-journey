@@ -1,0 +1,5 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.3  0.3  22236 12928 ?        Ss   09:42   0:10 /usr/lib/systemd/systemd --system --deserialize=26
+root           2  0.0  0.0   3060  1920 ?        Sl   09:42   0:00 /init
+root           6  0.0  0.0   3076  1792 ?        Sl   09:42   0:00 plan9 --control-socket 7 --log-level 4 --server-fd 8 --pipe-fd 10 --log-truncate
+root         173  0.0  0.0   4236  2432 ?        Ss   09:42   0:00 /usr/sbin/cron -f -P

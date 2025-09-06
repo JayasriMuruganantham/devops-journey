@@ -1,0 +1,23 @@
+.
+├── 01_pwd.txt
+├── 02_ls.txt
+├── 03_cd.txt
+├── 04_touch.txt
+├── 05_cat.txt
+├── 06_cp.txt
+├── 07_mv.txt
+├── 08_rm.txt
+├── 09_whoami.txt
+├── 10_id.txt
+├── 11_chmod.txt
+├── 12_chown.txt
+├── 13_ps.txt
+├── 14_top.txt
+├── 15_systemctl.txt
+├── 16_ip.txt
+├── 17_ping.txt
+├── 18_curl.txt
+├── 19_tree.txt
+└── test.txt
+
+1 directory, 20 files

@@ -1,0 +1,11 @@
+total 36
+-rw-r--r-- 1 jay jay  40 Sep  6 10:13 01_pwd.txt
+-rw-r--r-- 1 jay jay 103 Sep  6 10:14 02_ls.txt
+-rw-r--r-- 1 jay jay   5 Sep  6 10:15 03_cd.txt
+-rw-r--r-- 1 jay jay 252 Sep  6 10:17 04_touch.txt
+-rw-r--r-- 1 jay jay  13 Sep  6 10:21 05_cat.txt
+-rw-r--r-- 1 jay jay 443 Sep  6 10:22 06_cp.txt
+-rw-r--r-- 1 jay jay   0 Sep  6 10:23 07_mv.txt
+-rw-r--r-- 1 jay jay  13 Sep  6 10:22 moved.txt
+-rw-r--r-- 1 jay jay  13 Sep  6 10:21 test.txt
+-rw-r--r-- 1 jay jay  13 Sep  6 10:21 text.txt
