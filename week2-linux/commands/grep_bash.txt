@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+jay:x:1000:1000:,,,:/home/jay:/bin/bash
+jsri:x:1001:1001:,,,:/home/jsri:/bin/bash
+zayohan:x:1002:1002:,,,:/home/zayohan:/bin/bash
+user1:x:1004:1004:,,,:/home/user1:/bin/bash
+user2:x:1005:1005:,,,:/home/user2:/bin/bash
